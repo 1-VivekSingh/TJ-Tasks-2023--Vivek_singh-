@@ -1,5 +1,5 @@
 # TJ-Tasks-2023--Vivek_singh-
-This repository consist of my task of DSA I attended tasks from dsa domain and I attempted Six of them.
+This repository consist of six tasks done by me in DSA as per given by techies.It was great fun doing it.
 
 EASY
 
@@ -15,7 +15,7 @@ QUESTION 1:-
 QUESTION 2:-
 
 1) I started this task by accepting an error from the user and the sum.
-2) Then I use nested for looks where the first loop i=0 and i<length-1 and second loop runs within the first from j=1+1 and j<length.
+2) Then I use nested for loops where the first loop i=0 and i<length-1 and second loop runs within the first from j=1+1 and j<length.
 3) If a[i]+a[j]==sum.
 4) If yes ,then display these pairs(i.e the values of a[i] and a[j]).
    ![image](https://github.com/1-VivekSingh/TJ-Tasks-2023--Vivek_singh-/assets/151647937/f6302900-a809-446e-a338-689376174282)
@@ -35,7 +35,7 @@ MEDIUM
 
 QUESTION 2:-
 
-1) First day to input numbers from the user.
+1) First take two input numbers from the user.
 2) input users choice whichever operation the user wants to do.
 3) Using switch case I checked the multiple operation that are in calculator.
 4) Then I performed the respective operation and stored the result in a variable.
